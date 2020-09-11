@@ -1,3 +1,12 @@
+Netflix Clone uses ReactJS in combination with several APIS to generate dynamic data for movies and shows with an interface like Netflix. <br/>
+Check out the website here: https://netflix-clone-741bc.web.app/
+
+**Features**
+  
+ Dynamic Data for top movies in all categories using TMDB API.<br/>
+ You can play trailers of movies by clicking on them using React YouTube API.<br/>
+ Deployed using Firebase.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
